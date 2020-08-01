@@ -18,7 +18,7 @@ function Home() {
           <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"É realmente tudo MUITO legal e esse vídeo é um baita tutorial onde programo a base do backend do nosso jogo multiplayer e começo a trocar informações em tempo-real com o frontend."}
+        videoDescription={"The return of captain Gnyu!!!"}
       />
 
 <Carousel
