@@ -126,7 +126,7 @@
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "pink",
       "videos": [
         {
           "titulo": "Interestellar",
@@ -147,32 +147,32 @@
       ]
     },
     {
-      "titulo": "Games",
-      "cor": "red",
+      "titulo": "B3CKCHANNEL E MAIS FIGHTING GAMES",
+      "cor": "gold",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "B3CKCHANNEL",
+        "url": "https://youtu.be/d_qSSOcF0Os"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "KOF98 e Super Street Fighter 2 TURBO no Fightcade - B3ckchannel vs BuGsTaTioN /Tv",
+          "url": "https://youtu.be/qfTqP7nU8N8"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "DOUBLE DRAGON II - COMPLETO/ NINJA GAINDEN INCOMPLETO",
+          "url": "https://youtu.be/A6NBIA8HmvA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "GTstation - Kof 98 - Part. 1",
+          "url": "https://youtu.be/Motw4RAZ_uU"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "#NLBC #DBFZ #DragonBallFighter ZDragon Ball FighterZ Tournament - Top 8 Finals @ NLBC Online Edition #13",
+          "url": "https://youtu.be/ulxyimV3oFg"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "CEO 2015 - Ultra Street Fighter IV Top 8 Finals - HD 720p 60FPS",
+          "url": "https://youtu.be/da9RWs0R8KE"
         }
       ]
     },
