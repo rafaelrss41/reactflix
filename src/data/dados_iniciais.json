@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "zZona do GT",
+      "link": "https://www.youtube.com/user/zZonaDoGT",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Videos da galero do fliper do chinês(POA/RS).",
+        "url": "https://www.youtube.com/c/zZonaDoGT/videos"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "[#DBFZ] Go1 vs Fenritti FT10!! - Go1's New Team! - Hook's View",
+          "url": "https://youtu.be/R9JH9MkZw78"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "GTSTATION - Gordo Torta(Evil Ryu) VS Zoreu Senpai(DeeJay)",
+          "url": "https://youtu.be/5dwXj6M-WdM?list=PLmcLatqaZd4YQKUdwnrj60a5rmXfeXYvo"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "USF4 Zoréu Senpai vs Os Caroline",
+          "url": "https://youtu.be/YZMZozpVU5E?list=PLmcLatqaZd4YQKUdwnrj60a5rmXfeXYvo"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "King of Fighters 2002 - Moebeck Highlights",
+          "url": "https://youtu.be/Wa2g9oBpdr0?list=PLmcLatqaZd4YQKUdwnrj60a5rmXfeXYvo"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "FLIPER DO CHINÊS - MOEBECK VS KURT COBAIA",
+          "url": "https://youtu.be/UDCMN31hn24"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "ULTIMATE MORTAL KOMBAT 3 SNES - GORDO vs GT INFERNO",
+          "url": "https://youtu.be/elIvSRQj6r0?list=PLmcLatqaZd4YQKUdwnrj60a5rmXfeXYvo"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "USF4 - Luta Tensa",
+          "url": "https://youtu.be/vN2O21C12RU?list=PLmcLatqaZd4YQKUdwnrj60a5rmXfeXYvo"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "GTSTATION com Gordo Torta - VS Local/Ranked/Casuals",
+          "url": "https://youtu.be/UwP3adr9b6A?list=PLmcLatqaZd4YQKUdwnrj60a5rmXfeXYvo"
         }        
       ]
     },
