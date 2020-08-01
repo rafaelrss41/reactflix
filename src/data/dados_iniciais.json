@@ -3,7 +3,7 @@
     {
       "titulo": "zZona do GT",
       "link": "https://www.youtube.com/user/zZonaDoGT",
-      "cor": "#6BD1FF",
+      "cor": "blue",
       "link_extra": {
         "text": "Videos da galero do fliper do chinês(POA/RS).",
         "url": "https://www.youtube.com/c/zZonaDoGT/videos"
@@ -45,7 +45,7 @@
     },
     {
       "titulo": " Canal parceiro do projeto",
-      "cor": "#00C86F",
+      "cor": "green",
       "link_extra": {
         "text": "Bugstation/tv",
         "url": "https://www.youtube.com/channel/UC1PDbKBNrkPfcMgnSL52J3g"
@@ -58,12 +58,21 @@
         {
           "titulo": "#nintendo#'RetroAchievements.Super''Nintendo'' A a Z''part01",
           "url": "https://youtu.be/iQIdCWhzUjU"
+        },
+        {
+          "titulo": "#187#'RetroAchievements''Snes De A a Z#02",
+          "url": "https://youtu.be/v6lc9nAjyOg"
+        },
+        {
+          "titulo": "#192#'Odallus- The Dark Call''",
+          "url":"https://youtu.be/RI9Ry-beQV0"
         }
+        
       ]
     },
     {
       "titulo": "Games de esporte",
-      "cor": "#00C86F",
+      "cor":"red",
       "link_extra": {
         "text": "AVAÍ X GRÊMIO - QUARTAS DE FINAL - COPA EI GAMES",
         "url": "https://youtu.be/ZV4QoftTse4"
@@ -90,28 +99,28 @@
    
 
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Anime e Manga",
+      "cor": "black",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": " Quer saber um pouco mais sobre mangas e anime?Veja aqui!",
+        "url": "https://www.geekoos.com/melhores-sites-ver-anime-gratis/ "
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Bleach/Zaraki Kenpachi Vs Kurosaki Ichigo [Legendado PT-BR]",
+          "url": "https://youtu.be/sWZamNRE5jw"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Cavaleiros do Zodíaco A Grande Batalha dos Deuses 1988 1080p tt0322918 Dublado",
+          "url": "https://youtu.be/3X-O8NWvs_4"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Dragon Ball Z: The Movie | Official Trailer 2020",
+          "url": "https://youtu.be/uNOObUkpriA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "A HISTÓRIA DE BERSERK - A ERA DE OURO E O ECLIPSE EXPLICADOS - NASCE O ESPADACHIM NEGRO",
+          "url": "https://youtu.be/kw4Vb727bWg"
         }
       ]
     },
