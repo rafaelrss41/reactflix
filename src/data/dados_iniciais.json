@@ -96,8 +96,6 @@
             }
           ]
     },
-   
-
     {
       "titulo": "Anime e Manga",
       "cor": "black",
@@ -173,36 +171,6 @@
         {
           "titulo": "CEO 2015 - Ultra Street Fighter IV Top 8 Finals - HD 720p 60FPS",
           "url": "https://youtu.be/da9RWs0R8KE"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
         }
       ]
     }
