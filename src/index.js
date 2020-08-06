@@ -8,8 +8,6 @@ import CadastroVideo from './pages/cadastro/video';
 import CadastroCategoria from './pages/cadastro/Categoria';
 
 
-//desafio
-//colocar um jogo em https://www.youtube.com/watch?v=jOAU81jdi-c :)
 const Page404 = () => (<div>Page not found,error:404 :(</div>);
 
 
