@@ -47,7 +47,7 @@ function CadastroCategoria() {
   return (
     <PageDefault>
       <h1>
-        Cadastro de categoria:
+        Cadastro de categoria
         {values.nome}
       </h1>
 
@@ -64,13 +64,14 @@ function CadastroCategoria() {
 
         <FormField
           label="Nome da categoria"
+          type="text"
           name="nome"
           value={values.nome}
           onChange={handleChange}
         />
 
         <FormField
-          label="Descriçao:"
+          label="Descriçao"
           type="????"
           name="descricao"
           value={values.descricao}
@@ -90,7 +91,7 @@ function CadastroCategoria() {
                 </div> */}
 
         <FormField
-          label="Cor:"
+          label="Cor"
           type="color"
           name="cor"
           value={values.cor}
